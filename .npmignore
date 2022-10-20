@@ -1,0 +1,16 @@
+# source code
+src
+
+# webpack
+webpack
+webpack.config.js
+
+# babel
+.babelrc
+
+# IDE - VSCode
+.vscode
+
+# git
+.git
+.gitignore
